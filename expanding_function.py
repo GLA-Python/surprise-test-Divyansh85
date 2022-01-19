@@ -7,5 +7,5 @@ def expanding(a):
         difference.append(abs(d))
     return(sorted(set(difference))==sorted(difference))
     
-print(expanding(a))    
+print(expanding(a))
     
